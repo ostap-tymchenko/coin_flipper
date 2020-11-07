@@ -12,7 +12,8 @@ of heads/tails you got.
 edit line 19 
 (	#print("random number : ",binary_choise)) 
 and get rid of the comment (#) to see the 
-coin outputs in real time.
+coin outputs in real time. (this slows down the program MASSIVLLY, i beleve O(n) vs O(n log n) but i didnt bother to check)
+also it actually has to print it and theres only so fast it can go
 
 
 i recomend runing it through cmd by doing
