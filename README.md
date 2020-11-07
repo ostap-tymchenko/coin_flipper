@@ -23,3 +23,21 @@ enjoy messing with this :)
 
 
 more might come soon if i get bored
+
+
+directly inspired by john fish and (asdfgh746?/Lucas Cherkewski?):
+
+https://github.com/johnafish/flip-coin
+
+https://github.com/johnafish
+https://www.youtube.com/user/MrFish235
+https://www.instagram.com/thejohnfish/
+
+https://github.com/lchski
+https://github.com/asdfgh746-snippets
+
+its allot harder to find info on the second programer
+of the original code, hes listed as asdfhg746 but thats
+not a registered user anymore so i just put the closest
+match name. the inital and only commit to the original
+is now listed as lchski so i linked both.
