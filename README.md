@@ -31,7 +31,6 @@ https://github.com/johnafish/flip-coin
 
 https://github.com/johnafish
 https://www.youtube.com/user/MrFish235
-https://www.instagram.com/thejohnfish/
 
 https://github.com/lchski
 https://github.com/asdfgh746-snippets
