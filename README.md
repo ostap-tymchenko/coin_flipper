@@ -9,7 +9,7 @@ flips a coin however many times you
 want and tells you how many in a row 
 of heads/tails you got.
 
-edit line 19 
+edit line 21 
 (	#print("random number : ",binary_choise)) 
 and get rid of the comment (#) to see the 
 coin outputs in real time. (this slows down the program MASSIVLLY, i beleve O(n) vs O(n log n) but i didnt bother to check)
